@@ -1,0 +1,180 @@
+1671319791741	geckodriver	INFO	Listening on 127.0.0.1:61511
+1671319792223	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61512" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wv/2kd8l15d5338b7f00zptgxym0000gn/T/rust_mozprofileTNahj6"
+2022-12-17 18:29:52.808 plugin-container[70956:34143677] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 18:29:52.808 plugin-container[70956:34143677] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1671319792851	Marionette	INFO	Marionette enabled
+2022-12-17 18:29:52.873 plugin-container[70956:34143677] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 18:29:52.873 plugin-container[70956:34143677] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-17 18:29:52.873 plugin-container[70956:34143679] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 18:29:52.873 plugin-container[70956:34143679] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1671319792937	Marionette	INFO	Listening on port 61519
+Read port: 61519
+WebDriver BiDi listening on ws://127.0.0.1:61512
+1671319793143	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wv/2kd8l15d5338b7f00zptgxym0000gn/T/rust_mozprofileTNahj6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61512/devtools/browser/947dc065-a5bf-4701-a2ac-440bab9b7176
+JavaScript warning: https://www.tiktok.com/YEJe/EUxY/UiCO8/851c/Q/cf9hczXJ5E/VnphbQ5-bAM/cRh/mQxlibw8C, line 1: unreachable code after return statement
+JavaScript warning: https://www.tiktok.com/YEJe/EUxY/UiCO8/851c/Q/cf9hczXJ5E/VnphbQ5-bAM/cRh/mQxlibw8C, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-17 23:29:57.499 plugin-container[70963:34143985] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 23:29:57.499 plugin-container[70963:34143985] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.tiktok.com/YEJe/EUxY/UiCO8/851c/Q/cf9hczXJ5E/VnphbQ5-bAM/cRh/mQxlibw8C, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-17 23:29:57.553 plugin-container[70963:34143985] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 23:29:57.553 plugin-container[70963:34143985] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-17 23:29:57.554 plugin-container[70963:34143990] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 23:29:57.554 plugin-container[70963:34143990] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.460/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AIDRUCKFAQAARcZwf9UbawB5v-CjZR_FG1GQ-pqeu58rEc0Z_Q_1hLJKccyB&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk_ex/2.0.0.29/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1671320175790	geckodriver	INFO	Listening on 127.0.0.1:61776
+1671320176299	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "61777" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wv/2kd8l15d5338b7f00zptgxym0000gn/T/rust_mozprofileuNMbSC"
+2022-12-17 18:36:16.714 plugin-container[71223:34152249] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 18:36:16.715 plugin-container[71223:34152249] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-17 18:36:16.717 plugin-container[71223:34152249] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 18:36:16.717 plugin-container[71223:34152249] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-17 18:36:16.718 plugin-container[71223:34152254] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 18:36:16.718 plugin-container[71223:34152254] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1671320176735	Marionette	INFO	Marionette enabled
+1671320176772	Marionette	INFO	Listening on port 61785
+Read port: 61785
+WebDriver BiDi listening on ws://127.0.0.1:61777
+1671320177018	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wv/2kd8l15d5338b7f00zptgxym0000gn/T/rust_mozprofileuNMbSC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61777/devtools/browser/5c1ced55-ffdb-4723-a5ad-f63e6b54c81c
+JavaScript warning: https://www.tiktok.com/YEJe/EUxY/UiCO8/851c/Q/cf9hczXJ5E/VnphbQ5-bAM/cRh/mQxlibw8C, line 1: unreachable code after return statement
+JavaScript warning: https://www.tiktok.com/YEJe/EUxY/UiCO8/851c/Q/cf9hczXJ5E/VnphbQ5-bAM/cRh/mQxlibw8C, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-17 23:36:20.986 plugin-container[71230:34152539] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 23:36:20.986 plugin-container[71230:34152539] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-17 23:36:20.989 plugin-container[71230:34152539] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 23:36:20.989 plugin-container[71230:34152539] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-17 23:36:20.990 plugin-container[71230:34152550] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 23:36:20.990 plugin-container[71230:34152550] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.tiktok.com/YEJe/EUxY/UiCO8/851c/Q/cf9hczXJ5E/VnphbQ5-bAM/cRh/mQxlibw8C, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.460/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBIbCKFAQAAmZfz1GXd3tpSSZPf7b2blHxaDg7PKooPUGHgB7rT1wHgQr3n&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk_ex/2.0.0.29/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1671320920189	geckodriver	INFO	Listening on 127.0.0.1:62315
+1671320920701	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62316" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wv/2kd8l15d5338b7f00zptgxym0000gn/T/rust_mozprofilehs4aI5"
+2022-12-17 18:48:41.188 plugin-container[71605:34166283] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 18:48:41.189 plugin-container[71605:34166283] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1671320921207	Marionette	INFO	Marionette enabled
+2022-12-17 18:48:41.275 plugin-container[71605:34166283] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 18:48:41.275 plugin-container[71605:34166283] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-17 18:48:41.275 plugin-container[71605:34166309] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 18:48:41.275 plugin-container[71605:34166309] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1671320921308	Marionette	INFO	Listening on port 62324
+Read port: 62324
+WebDriver BiDi listening on ws://127.0.0.1:62316
+1671320921469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wv/2kd8l15d5338b7f00zptgxym0000gn/T/rust_mozprofilehs4aI5/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62316/devtools/browser/7326b3af-eb84-4f46-931a-2b59abebd006
+JavaScript warning: https://www.tiktok.com/YEJe/EUxY/UiCO8/851c/Q/cf9hczXJ5E/VnphbQ5-bAM/cRh/mQxlibw8C, line 1: unreachable code after return statement
+JavaScript warning: https://www.tiktok.com/YEJe/EUxY/UiCO8/851c/Q/cf9hczXJ5E/VnphbQ5-bAM/cRh/mQxlibw8C, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-17 23:48:45.259 plugin-container[71611:34166566] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 23:48:45.260 plugin-container[71611:34166566] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-17 23:48:45.263 plugin-container[71611:34166566] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 23:48:45.263 plugin-container[71611:34166566] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-17 23:48:45.263 plugin-container[71611:34166571] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 23:48:45.264 plugin-container[71611:34166571] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.tiktok.com/YEJe/EUxY/UiCO8/851c/Q/cf9hczXJ5E/VnphbQ5-bAM/cRh/mQxlibw8C, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBIbCKFAQAAmZfz1GXd3tpSSZPf7b2blHxaDg7PKooPUGHgB7rT1wHgQr3n&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.460/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk_ex/2.0.0.29/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1671328461506	geckodriver	INFO	Listening on 127.0.0.1:65277
+1671328462013	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "65278" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wv/2kd8l15d5338b7f00zptgxym0000gn/T/rust_mozprofileE7PulV"
+2022-12-17 20:54:22.443 plugin-container[73727:34250350] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 20:54:22.443 plugin-container[73727:34250350] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-17 20:54:22.446 plugin-container[73727:34250350] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 20:54:22.446 plugin-container[73727:34250350] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-17 20:54:22.447 plugin-container[73727:34250352] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-17 20:54:22.447 plugin-container[73727:34250352] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1671328462467	Marionette	INFO	Marionette enabled
+1671328462509	Marionette	INFO	Listening on port 65288
+Read port: 65288
+WebDriver BiDi listening on ws://127.0.0.1:65278
+1671328462700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wv/2kd8l15d5338b7f00zptgxym0000gn/T/rust_mozprofileE7PulV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65278/devtools/browser/b2fd67b8-79b2-4a5c-b9c0-7eed28a70d32
+JavaScript warning: https://www.tiktok.com/LkczzXPbOLeo/CH/zlVvC3R1kP/GmauDDrbJ9/DgFGMgE/bV/Z2Il9fYiMB, line 1: unreachable code after return statement
+2022-12-18 01:54:26.797 plugin-container[73734:34250704] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-18 01:54:26.797 plugin-container[73734:34250704] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-18 01:54:26.802 plugin-container[73734:34250704] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-18 01:54:26.802 plugin-container[73734:34250704] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-18 01:54:26.803 plugin-container[73734:34250710] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-18 01:54:26.803 plugin-container[73734:34250710] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://www.tiktok.com/LkczzXPbOLeo/CH/zlVvC3R1kP/GmauDDrbJ9/DgFGMgE/bV/Z2Il9fYiMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/LkczzXPbOLeo/CH/zlVvC3R1kP/GmauDDrbJ9/DgFGMgE/bV/Z2Il9fYiMB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.460/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMAl2iKFAQAAOFm6frJNjG1HV7XJQ5RHBJBBf3PMZsUEskyCykBAhRCHJGtu&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk_ex/2.0.0.29/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1671422983757	geckodriver	INFO	Listening on 127.0.0.1:62358
+1671422984273	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "62359" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wv/2kd8l15d5338b7f00zptgxym0000gn/T/rust_mozprofilenrRapL"
+2022-12-18 23:09:44.774 plugin-container[95384:34705788] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-18 23:09:44.774 plugin-container[95384:34705788] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1671422984809	Marionette	INFO	Marionette enabled
+2022-12-18 23:09:44.852 plugin-container[95384:34705788] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-18 23:09:44.852 plugin-container[95384:34705788] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-18 23:09:44.853 plugin-container[95384:34705786] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-18 23:09:44.853 plugin-container[95384:34705786] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1671422984863	Marionette	INFO	Listening on port 62368
+Read port: 62368
+WebDriver BiDi listening on ws://127.0.0.1:62359
+1671422985098	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wv/2kd8l15d5338b7f00zptgxym0000gn/T/rust_mozprofilenrRapL/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62359/devtools/browser/3ce162ab-2e69-409b-bf24-368144b9360e
+JavaScript warning: https://www.tiktok.com/jQGzwj/wMf/EVy/htP2l4n5/QkiYLhpD/Clx4AQ/enMCFAgu/P2cB, line 1: unreachable code after return statement
+JavaScript warning: https://www.tiktok.com/jQGzwj/wMf/EVy/htP2l4n5/QkiYLhpD/Clx4AQ/enMCFAgu/P2cB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/jQGzwj/wMf/EVy/htP2l4n5/QkiYLhpD/Clx4AQ/enMCFAgu/P2cB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-19 04:09:49.376 plugin-container[95395:34706136] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-19 04:09:49.376 plugin-container[95395:34706136] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-19 04:09:49.382 plugin-container[95395:34706136] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-19 04:09:49.382 plugin-container[95395:34706136] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-19 04:09:49.383 plugin-container[95395:34706148] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-19 04:09:49.383 plugin-container[95395:34706148] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.460/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AADWiSiFAQAAoRmjP1qW8vW69J-q8EDiOuQa5hyEIpvlMCx8FHQ6_-Pzx44q&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk_ex/2.0.0.29/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1671479236334	geckodriver	INFO	Listening on 127.0.0.1:53783
+1671479236815	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "--marionette" "--remote-debugging-port" "53784" "--remote-allow-hosts" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/wv/2kd8l15d5338b7f00zptgxym0000gn/T/rust_mozprofileFq1iax"
+2022-12-19 14:47:17.427 plugin-container[3634:35026012] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-19 14:47:17.442 plugin-container[3634:35026012] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-19 14:47:17.446 plugin-container[3634:35026012] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-19 14:47:17.446 plugin-container[3634:35026012] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-19 14:47:17.447 plugin-container[3634:35026019] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-19 14:47:17.447 plugin-container[3634:35026019] nil host used in call to allowsAnyHTTPSCertificateForHost:
+1671479237457	Marionette	INFO	Marionette enabled
+1671479237508	Marionette	INFO	Listening on port 53791
+Read port: 53791
+WebDriver BiDi listening on ws://127.0.0.1:53784
+1671479237813	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /var/folders/wv/2kd8l15d5338b7f00zptgxym0000gn/T/rust_mozprofileFq1iax/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53784/devtools/browser/f2a8819e-cda6-4da8-b0f7-4c8d99a664f4
+JavaScript warning: https://www.tiktok.com/jQGzwj/wMf/EVy/htP2l4n5/QkiYLhpD/Clx4AQ/enMCFAgu/P2cB, line 1: unreachable code after return statement
+JavaScript warning: https://www.tiktok.com/jQGzwj/wMf/EVy/htP2l4n5/QkiYLhpD/Clx4AQ/enMCFAgu/P2cB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://www.tiktok.com/jQGzwj/wMf/EVy/htP2l4n5/QkiYLhpD/Clx4AQ/enMCFAgu/P2cB, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+2022-12-19 19:47:22.513 plugin-container[3641:35026382] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-19 19:47:22.513 plugin-container[3641:35026382] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-19 19:47:22.524 plugin-container[3641:35026382] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-19 19:47:22.524 plugin-container[3641:35026382] nil host used in call to allowsAnyHTTPSCertificateForHost:
+2022-12-19 19:47:22.524 plugin-container[3641:35026387] nil host used in call to allowsSpecificHTTPSCertificateForHost
+2022-12-19 19:47:22.524 plugin-container[3641:35026387] nil host used in call to allowsAnyHTTPSCertificateForHost:
+JavaScript warning: https://s20.tiktokcdn.com/tiktok/common/init.js?seed=AMBG3SuFAQAAIXhXf8XUTyHQHv-6PZiMdtMo0KzJzH4l-xWtErlY9XYnLKGC&hTc6j8Njvn--z=q, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://sf16-secsdk.ttwstatic.com/obj/rc-web-sdk-gcs/webmssdk/1.0.0.460/webmssdk.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://lf16-tiktok-web.tiktokcdn-us.com/obj/tiktok-web-tx/webmssdk_ex/2.0.0.29/webmssdk_ex.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
